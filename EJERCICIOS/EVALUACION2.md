@@ -3,22 +3,26 @@
 Objetivo: Demostrar la correcta identificación de los conceptos del lenguaje SQL
 Ejercicio:
 
-1. Menciona los comandos DMl: (valor .85)
+1. Menciona los comandos DMl: (valor .85) SELECT, INSERT, UPOATE y DELETE.
 
 2. Menciona 3 tipos de datos que existen: (valor .85)
-
+char, varchar, int, smallint, bigint, float, datetime, smalldatetime
 
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
+ DELETE: Borra una serie de filas de la tabla. Podemos usar una claúsula WHERE para limitar las filas a borrar, a las que cumplan una condición. 
+ TRUNCATE elimina todas las filas de la tabla sin borrar la tabla. También resetea los contadores de auto incremento a 0. No borra la tabla como tal, la llamada estructura, por lo que luego puede comenzar a hacer inserciones
 
 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
+Nos permite establecer este atributo a los campos que requerimos tengan datos que no se puedan repetir.
 
 5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
-
+En CHAR la candidad de definida como longitud es almacenada se use o no. Mientras que en VARCHAR se reajusta automaticamente la longitud vs los caracteres utilizados.
 
 6. Defina brevemente el significado de las siglas SQL(valor .85)
-
+Lenguaje de consulta estructurado 
 
 7. Defina brevemente qué es MySQL WorkBench (valor .85)
+Es una interface visual utilizada como herramienta de trabajo para los arquitectos de la base de datos, desarrolladores y administradores de la misma.
 
 ## Práctica 5.
 ### Gestores de base de datos

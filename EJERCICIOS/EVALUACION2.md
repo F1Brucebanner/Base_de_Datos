@@ -62,6 +62,7 @@ Modelo entidad/relación
 
 ![image](https://user-images.githubusercontent.com/104279720/173101879-6e844553-4235-4fcc-ab27-5ab3e0117824.png)
 
+![image](https://user-images.githubusercontent.com/104279720/173133826-0b3c2050-e69f-4c60-ab98-50e3e6f28c17.png)
 
 
 

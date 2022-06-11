@@ -10,6 +10,8 @@ Ejercicio:
 1. ¿Qué es un DataWarehouse?(valor 2)
 
 2. Realiza un diseño del modelo en estrella (valor 2)
+![image](https://user-images.githubusercontent.com/104279720/173191369-163b0271-3eac-41b3-b502-3377de2cf2d0.png)
+
 
 3. Realiza un diseño del modelo copo de nieve (valor 2)
 

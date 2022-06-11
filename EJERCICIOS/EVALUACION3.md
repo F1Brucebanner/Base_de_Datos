@@ -8,12 +8,14 @@ su esquema
 Ejercicio:
 
 1. ¿Qué es un DataWarehouse?(valor 2)
+Es el gestor que controla varias bases de datos de diferentes fuentes para su consulta y analisis.
 
 2. Realiza un diseño del modelo en estrella (valor 2)
 ![image](https://user-images.githubusercontent.com/104279720/173191369-163b0271-3eac-41b3-b502-3377de2cf2d0.png)
 
 
 3. Realiza un diseño del modelo copo de nieve (valor 2)
+![image](https://user-images.githubusercontent.com/104279720/173191527-6ffd3882-05cb-4901-91a4-63fa4629f173.png)
 
 
 ## Práctica 7
@@ -23,13 +25,15 @@ Objetivo: Demostrar el uso y aplicación en una base de datos para mejorar la ge
 Ejercicio:
 
 1. Calcula el número total de productos que hay en la tabla productos. (valor 4.5)
-
+REsultado NULL
 
 2. Muestra el número total de productos que tiene cada uno de los fabricantes. El listado
 también debe incluir los fabricantes que no tienen ningún producto. El resultado
 mostrará dos columnas, una con el nombre del fabricante y otra con el número de
 productos que tiene. Ordene el resultado descendentemente por el número de
 productos. (valor 4.5)
+
+
 
 3. Muestra el precio máximo, precio mínimo y precio medio de los productos de cada
 uno de los fabricantes. El resultado mostrará el nombre del fabricante junto con los

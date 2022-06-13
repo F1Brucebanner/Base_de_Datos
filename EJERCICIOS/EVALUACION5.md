@@ -20,6 +20,10 @@ Lista el nombre de todos los productos que hay en la tabla producto.
 
 3. Devuelve una lista con el nombre del producto, precio y nombre de fabricante de
 todos los productos de la base de datos.
+![image](https://user-images.githubusercontent.com/104279720/173277588-ac70232e-d795-445f-8b76-af38037e64a0.png)
+
+![image](https://user-images.githubusercontent.com/104279720/173277635-f8deb7ce-c10e-42c2-af85-dd296bd2e8ac.png)
+
 
 Subconsultas (En la cláusula WHERE)
 1. Devuelve todos los productos del fabricante Lenovo. (Sin utilizar INNER
